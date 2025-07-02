@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas Tan Yun Yu</h1>
-<h3 align="center">I'm a Year 2 Computer Engineering Student at NUS!</h3>
+<h3 align="center">I'm a Year 4 Computer Engineering Student at NUS!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholastanyy" alt="nicholastanyy" /></a> </p>
 
